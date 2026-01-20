@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abinesh Senthilkumar
-- 👀 I’m interested in Full Stack Developer, Web Desinger, Software Developer, API Intergration Specialist.
+- 👀 I’m interested in DATA SCIENTIST, DATA ANALYST, ML ENGINEER, AI ENGINEER, Software Developer, API Intergration Specialist.
 - 🌱 I’m currently learning MERN Stack, Javascript, Tailwind CSS, Python, Clerk, Covex.
 - 💞️ I’m looking to collaborate on Start-up's to Large MNC Companies.
 - 📫 How to reach me ...
