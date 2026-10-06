@@ -1,398 +1,143 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.png">
+  <img src="assets/profile-header.png" width="100%" alt="Abinesh Senthilkumar — AI/ML Engineer and Data Scientist. Deconstructing Complexity, Rebuilding with Intent.">
+</picture>
 
-<div align="center">
+<p align="center">
+  <a href="https://abineshs.vercel.app/"><img src="assets/link-portfolio.svg" width="142" height="38" alt="Explore my portfolio"></a>
+  <a href="https://www.linkedin.com/in/abineshsdata/"><img src="assets/link-linkedin.svg" width="142" height="38" alt="Connect on LinkedIn"></a>
+  <a href="https://www.kaggle.com/abineshsdataa"><img src="assets/link-kaggle.svg" width="142" height="38" alt="View my Kaggle profile"></a>
+  <a href="mailto:abineshsenthilkumar565@gmail.com"><img src="assets/link-email.svg" width="142" height="38" alt="Email Abinesh"></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,40:0D1117,60:0a1628,100:0D1117&height=160&section=header&reversal=false"/>
+<p align="center"><strong>Bangalore, India</strong> · M.Sc. Data Science at CHRIST (Deemed to be University)</p>
 
-</div>
+My work connects **machine learning, trustworthy AI, and the systems around them**: how models use evidence, how we evaluate their decisions, and how research becomes a working application.
 
-<div align="center">
+## Now / the current chapter
 
-<img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=680&height=80&lines=ABINESH+S" alt="ABINESH S"/>
+**Machine Learning Engineer · Shipd by Datacurve**<br>
+Freelance · Remote · March 2026–Present
 
-</div>
+Building ML benchmarks across NLP, computer vision, fine-tuning, RAG, Prompt Engineering, Sequence-to-Sequence, From Scratch and model evaluation through Project Eris.
 
-<div align="center">
+- **Recent engineering work:** nine backend assignments and the **CampaignHub Studio** capstone from my FlyRank AI internship.
+- **Academic focus:** pursuing an **M.Sc. in Data Science**, building on a B.Sc. in the same field.
+- **Hands-on data engineering:** homework, notes, and experiments from **Data Engineering Zoomcamp 2026**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=620&height=28&lines=AI+%2F+ML+Engineer+%E2%80%A2+Data+Scientist+%E2%80%A2+Edge+AI+Builder" alt="role"/>
+## Highlight / built under pressure
 
-</div>
+<a href="https://github.com/AbineshSenthil/NexusGrid-CyberPhysEnv">
+  <img src="assets/openenv-finalist.png" width="100%" alt="Top 100 Finalist, OpenEnv Hackathon 2026 — NexusGrid">
+</a>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2&width=60%25"/>
-</div>
+**Top 100 finalist · OpenEnv Hackathon 2026** — Meta, PyTorch, and Hugging Face, with Scaler School of Technology.
 
-<br/>
+[**NexusGrid**](https://github.com/AbineshSenthil/NexusGrid-CyberPhysEnv) puts an AI agent inside a simulated power grid where physical faults and spoofed SCADA telemetry can disagree. The task is to distinguish real failures from deceptive observations and choose a recovery action.
 
-<div align="center">
+`20-node DC power flow` · `Seeded attacks` · `Typed OpenEnv actions` · `Deterministic replay`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2600&pause=900&color=7B2FBE&center=true&vCenter=true&multiline=true&width=740&height=75&lines=%F0%9F%9B%B0%EF%B8%8F+Building+AI+that+operates+where+the+internet+cannot+reach;%F0%9F%A9%BA+Offline+Oncology+AI+%C2%B7+Wireless+Threat+Detection+%C2%B7+Healthcare+ML;%E2%9A%A1+Edge+AI+%7C+Multi-Agent+Systems+%7C+RAG+%7C+MLOps+%7C+Full-Stack+Dev)](https://github.com/AbineshSenthil)
+[Explore the environment →](https://github.com/AbineshSenthil/NexusGrid-CyberPhysEnv) · [Open the demo →](https://huggingface.co/spaces/Abineshsdata/Nexus-Grid) · [Read the project story →](https://abineshs.vercel.app/blog/nexusgrid/)
 
-</div>
-
-<br/>
-
-<!-- ── Social badges ── -->
-<div align="center">
-
-<a href="https://linkedin.com/in/abineshsdata"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/AbineshSenthil"><img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:abineshsenthilkumar565@gmail.com"><img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://kaggle.com"><img src="https://img.shields.io/badge/Kaggle-Competing-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AbineshSenthil&label=Profile+Views&color=7B2FBE&style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-<!-- ── Identity card — pixel-perfect, all lines 61 chars ── -->
-<div align="center">
-
-```
-+===========================================================+
-|  Active   :  Kaggle  &  Lunor AI  Competitions            |
-+-----------------------------------------------------------+
-|  "Build AI for the real world — not just the cloud."      |
-+===========================================================+
-```
-
-</div>
-
-<!-- ── Status pills ── -->
-<div align="center">
-
-![](https://img.shields.io/badge/%F0%9F%8E%AF%20Focus-Edge%20AI%20%26%20Offline%20Inference-00D4FF?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%A9%BA%20Domain-Healthcare%20AI-FF6B35?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20Stack-PyTorch%20%7C%20RAG%20%7C%20MLOps-7B2FBE?style=flat-square)&nbsp;
-![](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To-Internships%20%26%20Collabs-00C49F?style=flat-square)
-
-</div>
-
----
-
-<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
-
-## 🌌 Who Am I?
-
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class AbineshS:
-    def __init__(self):
-        self.name        = "Abinesh S"
-        self.role        = "AI/ML Engineer & Data Scientist"
-        self.university  = "Christ (Deemed to be University)"
-        self.degree      = "M.Sc. Data Science  [Current]"
-        self.location    = "Tamil Nadu, India"
-        self.specialties = [
-            "Multi-Agent AI Systems",
-            "Edge AI & Offline Inference",
-            "Healthcare AI",
-            "Network Security ML",
-            "RAG Architectures",
-            "Full-Stack AI Apps",
-        ]
-        self.currently   = "Competing on Kaggle & Lunor AI"
-        self.fun_fact    = "My AI runs on 8 GB VRAM — no cloud needed."
-        self.philosophy  = (
-            "Build AI for the real world — not just the cloud."
-        )
-
-    def __str__(self):
-        return f"{self.name} — turning hard problems into working systems."
-```
-
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════  AEGIS-SPHERE  ═══════════════════════ -->
-
-## 🏆 Highlight — Google × Kaggle Challenge Submission
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                               ║
-║   █████╗ ███████╗ ██████╗ ██╗███████╗      ███████╗██████╗ ██╗  ██╗███████╗██████╗ ███████╗  ║
-║  ██╔══██╗██╔════╝██╔════╝ ██║██╔════╝      ██╔════╝██╔══██╗██║  ██║██╔════╝██╔══██╗██╔════╝  ║
-║  ███████║█████╗  ██║  ███╗██║███████╗█████╗███████╗██████╔╝███████║█████╗  ██████╔╝█████╗    ║
-║  ██╔══██║██╔══╝  ██║   ██║██║╚════██║╚════╝╚════██║██╔═══╝ ██╔══██║██╔══╝  ██╔══██╗██╔══╝    ║
-║  ██║  ██║███████╗╚██████╔╝██║███████║      ███████║██║     ██║  ██║███████╗██║  ██║███████╗  ║
-║  ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝      ╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  ║
-║                                                                                               ║
-║          Offline Multi-Agent Oncology AI   ·   Jan – Feb 2026                                ║
-║       Official Submission → Google & Kaggle  Med-Gemma Impact Challenge                      ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-> A fully **offline, multi-modal oncology AI platform** engineered for resource-constrained LMIC clinics — **zero cloud, zero compromise**.
-> Listens to live patient consultations, auto-detects malignancy signals (Lymphoma in HIV+ patients), and escalates to an **offline Virtual Tumor Board**.
+## Selected systems / four questions worth building for
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-#### ⚡ 8 GB VRAM Orchestration
-Custom synchronous **GPU/CPU Lease Manager** running 8 massive foundation models under a hard 7.8 GB ceiling:
-
-`MedGemma 1.5` · `TxGemma` · `HeAR` · `MedSigLIP` · `MedASR`
-
-Zero OOM crashes. Full orchestration.
-
+<h3>01 / MIRROR-Rad</h3>
+<p><strong>Does the summary stay faithful to the evidence?</strong></p>
+<p>A clinical NLP text audit that checks both directions: unsupported or contradicted summary claims, and source findings left out of the summary.</p>
+<p><code>PyTorch</code> <code>BioClinicalBERT</code> <code>NLI</code> <code>Calibration</code></p>
+<p><a href="https://github.com/AbineshSenthil/MIRROR-Rad">Code ↗</a> · <a href="https://mirror-rad.streamlit.app/">Demo ↗</a> · <a href="https://abineshs.vercel.app/blog/mirror-rad/">Story ↗</a></p>
 </td>
 <td width="50%" valign="top">
-
-#### 🤖 Multi-Agent Debate Architecture
-Bypassed LLM multi-turn degradation with a **sequential single-turn debate** system:
-
-> 🔬 **Pathologist** → 🩻 **Radiologist** → 🧬 **Oncologist** → ✅ **Consensus**
-
-Each agent is MedGemma in a different role.
-
+<h3>02 / Quantum Protection Toolkit</h3>
+<p><strong>Which cryptographic system should we protect next, and why?</strong></p>
+<p>An evidence-led workspace for cryptographic inventories, explainable migration priorities, bounded experiments, and signed review bundles.</p>
+<p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Qiskit</code></p>
+<p><a href="https://github.com/AbineshSenthil/Quantum-Protection-Toolkit">Project showcase ↗</a> · <a href="https://abineshs.vercel.app/blog/qpt/">Story ↗</a></p>
+<p><sub>Collaborative project with Shamatmika R. Public documentation and interface captures; the application runs in a private local environment.</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-#### 🔻 Graceful Degradation Engine
-No imaging data? No problem. The pipeline auto-scales:
-
-**Full Mode:** `7.8 GB` — text + audio + CXR + pathology slides
-
-**Triage Mode:** `3.1 GB` — text + audio only
-
-No crash. No halt. Just intelligent adaptation.
-
+<h3>03 / Aegis-Sphere</h3>
+<p><strong>How much multimodal AI can fit inside a constrained GPU?</strong></p>
+<p>An offline oncology research prototype exploring sequential specialist reasoning, local evidence retrieval, and graceful handling of missing inputs.</p>
+<p><code>MedGemma</code> <code>PyTorch</code> <code>FAISS</code> <code>Streamlit</code></p>
+<p><a href="https://github.com/AbineshSenthil/Aegis-Sphere">Code ↗</a> · <a href="https://aegis-sphere.streamlit.app/">Demo ↗</a> · <a href="https://abineshs.vercel.app/blog/aegis-sphere/">Story ↗</a></p>
+<p><sub>MedGemma Impact Challenge submission · Collaborative project with Sasipriya K.</sub></p>
 </td>
 <td width="50%" valign="top">
-
-#### 💊 Offline Pharmacy Router
-**TxGemma** + offline SQLite DB dynamically reroutes chemotherapy regimens around **real-time local drug shortages** — fully air-gapped, no internet required.
-
-Patients get the right drugs even when supply chains fail.
-
+<h3>04 / CampaignHub Studio</h3>
+<p><strong>How does one article become a reliable multi-platform campaign?</strong></p>
+<p>A FlyRank AI capstone with platform-specific captions and image variants, immediate or scheduled jobs, retry handling, and inspectable publishing history.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Supabase</code> <code>Redis</code> <code>MCP</code></p>
+<p><a href="https://github.com/AbineshSenthil/flyrank-Ai-Intern/tree/main/capstone-social-studio">Explore capstone ↗</a> · <a href="https://github.com/AbineshSenthil/flyrank-Ai-Intern">Internship work ↗</a></p>
+<p><sub>Public capstone uses simulated platform adapters for its publishing workflow.</sub></p>
 </td>
 </tr>
 </table>
 
-<div align="center">
+<details>
+<summary><strong>Open the engineering notes — what connects these systems?</strong></summary>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-00BFFF?style=flat-square&logoColor=white)
-![Edge AI](https://img.shields.io/badge/Edge_AI-7B2FBE?style=flat-square&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Multi--Agent-FF6B35?style=flat-square&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- **MIRROR-Rad:** reciprocal retrieval separates what a summary adds from what it omits. Evidence, calibration, and review routing make the result inspectable.
+- **QPT:** current security urgency and future quantum migration risk are distinct decisions. Controlled experiments and signed bundles support review.
+- **NexusGrid:** physical truth and adversarial observations are separate layers. Seeded scenarios make an agent's decisions reproducible.
+- **Aegis-Sphere:** specialist passes share a limited GPU budget rather than keeping every model resident at once.
+- **CampaignHub Studio:** durable jobs, expiring worker leases, and explicit run history keep the workflow understandable after retries or interruptions.
 
-</div>
+The common thread: **make the evidence visible, the evaluation reproducible, and the implementation usable.**
 
----
+</details>
 
-<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
+## Toolkit / from the dataset to the deployment
 
-## 🚀 Other Projects
+| Layer | Tools and approaches |
+| --- | --- |
+| Models & evaluation | Python · PyTorch · scikit-learn · NLP · computer vision · fine-tuning · NLI · calibration · explainability |
+| Retrieval & agents | RAG · FAISS · LLMs · MedGemma · multi-agent workflows · prompt engineering |
+| APIs & interfaces | FastAPI · JavaScript / TypeScript · React · Next.js · Node.js · Streamlit · Gradio |
+| Data & delivery | SQL · PostgreSQL · MongoDB · Supabase · Redis · Docker · Linux · Git · MLOps |
+| Exploration & systems | Plotly · Power BI · PySpark · Scapy · ESP32 · OpenEnv · Qiskit |
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## Experience / the work behind the projects
 
-### 📡 MacNetX
-**AI-Driven Wireless Threat Detection**
-`March 2025`
+| When | Role | Focus |
+| --- | --- | --- |
+| Mar 2026–Present | **Machine Learning Engineer · Shipd by Datacurve** | ML benchmark design and model evaluation through Project Eris. Freelance, remote. |
+| Jul–Sep 2026 | **Backend AI Engineering Intern · FlyRank AI** | APIs, persistence, authentication, background jobs, AI integration, and a campaign-engine capstone. Remote. |
+| Dec 2024–Mar 2025 | **Data Scientist Intern · Nextskill Technologies** | Python / PyTorch predictive pipelines, RAG, model versioning, and monitoring on Linux. Coimbatore. |
+| Apr–May 2024 | **Data Analyst Intern · Synovers Technologies** | SQL / Python data cleaning, Power BI dashboards, and reporting automation. Coimbatore. |
 
-Real-time 802.11 packet capture via **ESP32**, processed through **Scapy**, classified by **LSTM + ML models** to detect intrusions and classify anomalous network behavior with interactive analytics dashboards.
+[Browse the FlyRank assignments →](https://github.com/AbineshSenthil/flyrank-Ai-Intern/tree/main/assignments) · [Follow the data engineering work →](https://github.com/AbineshSenthil/De-Zoomcamp)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LSTM](https://img.shields.io/badge/-LSTM-EE4C2C?style=flat-square)
-![ESP32 IoT](https://img.shields.io/badge/-ESP32%20IoT-000000?style=flat-square)
-![Scapy](https://img.shields.io/badge/-Scapy-4B8BBE?style=flat-square)
+## Foundations / still building
 
-</td>
-<td valign="top" width="33%">
+- **M.Sc. Data Science** — CHRIST (Deemed to be University), Bengaluru · 2025–Present
+- **B.Sc. Data Science** — Sri Krishna Arts and Science College, Coimbatore · Graduated May 2025
 
-### 🩺 FetoScan
-**ML-Powered Fetal Health Prediction**
-`September 2024`
+<details>
+<summary><strong>Earlier explorations & learning</strong></summary>
 
-Web app classifying fetal states as **Normal / Suspect / Pathological** from CTG data. Real-time predictions with visual dashboards assist doctors in early clinical diagnosis.
+- **MacNetX:** an ESP32 / Scapy pipeline for Wi-Fi traffic capture, parsing, anomaly exploration, and dashboards. [Project story](https://abineshs.vercel.app/blog/macnetx/).
+- **FetoScan:** an earlier ML exploration of fetal-health classification using CTG features.
+- **NeuroDetectX:** an earlier ML exploration using behavioral, cognitive, and emotional factors.
+- **Data Engineering Zoomcamp 2026:** hands-on notes and homework spanning Docker, SQL, Terraform, orchestration, warehousing, and batch / streaming processing. [Learning repository](https://github.com/AbineshSenthil/De-Zoomcamp).
+- Earlier learning includes Red Hat Linux Fundamentals, AWS Academy Cloud Foundations, Python training, and data annotation projects.
 
-![ML](https://img.shields.io/badge/-Machine%20Learning-FF6B35?style=flat-square)
-![Web App](https://img.shields.io/badge/-Web%20App-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Healthcare AI](https://img.shields.io/badge/-Healthcare%20AI-00C49F?style=flat-square)
+</details>
 
-</td>
-<td valign="top" width="33%">
+## Read / the thinking behind the builds
 
-### 🧩 NeuroDetectX
-**Autism Identification System**
-`May 2024`
+The [**Build Journal**](https://abineshs.vercel.app/blog/) covers the problem, architecture, implementation choices, evidence, and lessons behind each project.
 
-Web-based ML platform predicting behavioral challenges in children with **ASD** by analyzing behavioral, cognitive, and emotional factors to guide early intervention strategies.
-
-![ML](https://img.shields.io/badge/-Machine%20Learning-FF6B35?style=flat-square)
-![Behavioral AI](https://img.shields.io/badge/-Behavioral%20Analysis-7B2FBE?style=flat-square)
-![Web App](https://img.shields.io/badge/-Web%20App-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-</td>
-</tr>
-</table>
+[QPT](https://abineshs.vercel.app/blog/qpt/) · [MIRROR-Rad](https://abineshs.vercel.app/blog/mirror-rad/) · [NexusGrid](https://abineshs.vercel.app/blog/nexusgrid/) · [Aegis-Sphere](https://abineshs.vercel.app/blog/aegis-sphere/) · [MacNetX](https://abineshs.vercel.app/blog/macnetx/)
 
 ---
 
-<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+<p align="center"><strong>Deconstructing Complexity, Rebuilding with Intent.</strong></p>
+<p align="center"><a href="https://abineshs.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/abineshsdata/">LinkedIn</a> · <a href="https://www.kaggle.com/abineshsdataa">Kaggle</a> · <a href="mailto:abineshsenthilkumar565@gmail.com">Email</a></p>
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**💻 Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🧬 AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-4B8BBE?style=for-the-badge&logoColor=white)
-
-**🤖 GenAI & Advanced AI**
-
-![LLM](https://img.shields.io/badge/LLM-FF6B35?style=for-the-badge&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-7B2FBE?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00D4FF?style=for-the-badge&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge&logoColor=white)
-![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00C49F?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-003B57?style=for-the-badge&logoColor=white)
-
-**🌐 Web Development**
-
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**☁️ Cloud, Tools & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-<!-- ═══════════════════════  EXPERIENCE  ═══════════════════════ -->
-
-## 💼 Experience Timeline
-
-```
-  [Apr 2024]──────[May 2024]       [Dec 2024]──────────────────[Mar 2025]
-       │                │                │                           │
-       ▼                ▼                ▼                           ▼
-+───────────────────────────+     +─────────────────────────────────────────+
-│          Synovers         │     │      Nextskill Technologies Pvt Ltd     │
-│    Data Analyst Intern    │     │        Data Scientist  Intern           │
-│  Python · Power BI · SQL  │ ──▶ │  RAG  ·  MLOps  ·  PyTorch  ·  Linux   │
-+───────────────────────────+     +─────────────────────────────────────────+
-```
-
-**🔬 Data Scientist Intern — Nextskill Technologies Pvt Ltd** · `Dec 2024 – Mar 2025` · Coimbatore, TN
-- Engineered end-to-end ML pipelines with **Python & PyTorch** focused on predictive modeling
-- Implemented **RAG (Retrieval-Augmented Generation)** architectures to enhance context over unstructured data
-- Applied **MLOps best practices** for model deployment and monitoring within Linux environments
-
-**📊 Data Analyst Intern — Synovers Technologies** · `Apr 2024 – May 2024` · Coimbatore, TN
-- Orchestrated data cleaning workflows using **SQL & Python** to improve dataset integrity
-- Designed interactive **Power BI dashboards** to visualize key performance metrics (KPIs)
-- Automated data extraction pipelines to reduce manual reporting time and improve accuracy
-
----
-
-<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
-
-## 🎓 Education
-
-<div align="center">
-
-| 🏛️ Institution | 📚 Degree | 📅 Year |
-|:---|:---|:---:|
-| **Christ (Deemed to be University)**, Bangalore | M.Sc. Data Science | 2025 – Present |
-| **Sri Krishna Arts & Science College**, Coimbatore | B.Sc. Data Science — 70.41% | May 2025 |
-| **Nandha Central School**, Erode | Grade 12 — CBSE — 77% | July 2022 |
-
-</div>
-
----
-
-<!-- ═══════════════════════  CERTIFICATIONS  ═══════════════════════ -->
-
-## 📜 Certifications
-
-<div align="center">
-
-| 🏅 | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| 🌾 | Next-Gen Agritech — AI & Predictive Analytics | IIT BHU × Christ University | Jan 2026 |
-| 🎩 | Red Hat Linux Fundamentals (RH104-RHA) | Red Hat Academy | Dec 2025 |
-| ☁️ | AWS Academy Cloud Foundations | Amazon Web Services | Dec 2025 |
-| 🏷️ | Data Annotation: CivicLens & LiteracyForge | Lunor AI | Oct–Nov 2025 |
-| 🐍 | Python Training — Score: **90%** | IIT Bombay Spoken Tutorial | Sep 2024 |
-| ☕ | Python for Everybody & Core Java | Coursera | Apr 2023 |
-
-</div>
-
----
-
-<!-- ═══════════════════════  STATS  ═══════════════════════ -->
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AbineshSenthil&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=7B2FBE&dates=C9D1D9" width="60%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbineshSenthil&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-
-<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,12&height=130&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling"/>
-</div>
-
-<div align="center">
-
-> *"The best AI is the one that works even when everything else fails."*
-
-📫 **abineshsenthilkumar565@gmail.com** &nbsp;·&nbsp; 📍 Tamil Nadu, India &nbsp;·&nbsp; 📞 +91 8838503127
-
-</div>
+<p align="center"><sub>Profile refreshed October 2026 · Abinesh Senthilkumar</sub></p>
