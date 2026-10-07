@@ -109,7 +109,6 @@ The common thread: **make the evidence visible, the evaluation reproducible, and
 | Mar 2026–Present | **Machine Learning Engineer · Shipd by Datacurve** | ML benchmark design and model evaluation through Project Eris. Freelance, remote. |
 | Jul–Sep 2026 | **Backend AI Engineering Intern · FlyRank AI** | APIs, storage, access controls, background jobs, AI integration, and a campaign-engine capstone. Remote. |
 | Dec 2024–Mar 2025 | **Data Scientist Intern · Nextskill Technologies** | Python / PyTorch predictive pipelines, RAG, model versioning, and monitoring on Linux. Coimbatore. |
-| Apr–May 2024 | **Data Analyst Intern · Synovers Technologies** | SQL / Python data cleaning, Power BI dashboards, and reporting automation. Coimbatore. |
 
 [Browse the FlyRank assignments →](https://github.com/AbineshSenthil/flyrank-Ai-Intern/tree/main/assignments) · [Follow the data engineering work →](https://github.com/AbineshSenthil/De-Zoomcamp)
 
